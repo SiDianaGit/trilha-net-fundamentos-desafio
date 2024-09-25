@@ -30,9 +30,14 @@ A classe contém três métodos, sendo:
 Por último, deverá ser feito um menu interativo com as seguintes ações implementadas:
 1. Cadastrar veículo
 2. Remover veículo
-3. Listar veículos
-4. Encerrar
+3. Listar veículos estacionados
+4. Listar veículos removidos
+5. Encerrar
 
 
-## Solução
+
+## Solução Proposta
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Solução Realizada
+Foi acrescentado o código conforme solicitado, incluindo validação de máscara das placas dos veículos, tratamento para evitar exceção na configuração de Preço Inicial e Preço Por Hora, inclusão de uma lista de veículos removidos e inclusão de um cálculo de horas no momento da remoção considerando a hora de entrada e hora de saída do veículo.
