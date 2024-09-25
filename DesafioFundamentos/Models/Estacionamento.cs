@@ -153,6 +153,7 @@ namespace DesafioFundamentos.Models
             }
         }
 
+        //Implementação Nova
          public void ListarRemovidos()
         {
             // Verifica se há veículos removidos
