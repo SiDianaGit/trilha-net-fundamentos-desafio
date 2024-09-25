@@ -35,18 +35,8 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 5. Encerrar
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 21be2f8487b12fa29600af9589be356d6cdb409e
 ## Solução Proposta
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
 ## Solução Realizada
-<<<<<<< HEAD
 Foi acrescentado o código conforme solicitado, incluindo validação de máscara das placas dos veículos, tratamento para evitar exceção na configuração de Preço Inicial e Preço Por Hora, inclusão de uma lista de veículos removidos e inclusão de um cálculo de horas no momento da remoção considerando a hora de entrada e hora de saída do veículo.
-=======
-Foi acrescentado o código conforme solicitado, incluindo validação de máscara das placas dos veículos, tratamento para evitar exceção na configuração de Preço Inicial e Preço Por Hora, inclusão de uma lista de veículos removidos e inclusão de um cálculo de horas no momento da remoção considerando a hora de entrada e hora de saída do veículo.
-
-
->>>>>>> 21be2f8487b12fa29600af9589be356d6cdb409e
